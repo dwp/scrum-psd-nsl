@@ -3,7 +3,7 @@
 
    
     <div class="jumbotron">
-      <h1>Hello, world!</h1>
+      <img src="../assets/waters-3038803_1920 (1).jpg" alt="" class="img-responsive">
     </div>
     <div class="row">
         <div class="col-md-12"><h2>ABOUT QA CINEMA</h2><p>
