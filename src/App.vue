@@ -7,11 +7,12 @@
 
 <script>
 import navbar from '@/components/Navbar';
+
 export default {
   name: 'App',
   components: {
-    navbar
-  }
+    navbar,
+  },
 };
 </script>
 
