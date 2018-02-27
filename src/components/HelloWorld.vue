@@ -1,15 +1,7 @@
 <template>
   <div class="container">
 
-    <nav class="navbar navbar-default">
-      <div class="container-fluid">
-        <div class="navbar-header">
-          <ul class="nav navbar-nav">
-            <li class="active"><a href="#">Home</a></li>
-          </ul>
-        </div>
-      </div>
-    </nav>
+   
     <div class="jumbotron">
       <h1>Hello, world!</h1>
     </div>
